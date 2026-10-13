@@ -1,0 +1,4 @@
+interface:
+  display_name: "费曼学习法"
+  short_description: "用类比和追问把一个主题讲透"
+  default_prompt: "用 $feynman-learn 带我把一个主题讲透。先问我想学什么，以及我现在是初学者、中级还是高级。"
